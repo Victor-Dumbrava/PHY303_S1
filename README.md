@@ -1,0 +1,1 @@
+The data from the buckling experiment should be saved in a `csv` file with the format indentical to the example file `data_buckling.csv`. Entries where `m` equals `0` means they were unachieveable and are therefore ignored (not stored in the dataframe).
